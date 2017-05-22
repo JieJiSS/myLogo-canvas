@@ -312,8 +312,8 @@ document.rotationForce = 0;
 document.Friction = 0.95;
  
 setTimeout(updateCanvasDimensions, 30);
-	</script>
-    <script type="text/javascript" defer="">var myName = "JieJiSS";
+
+var myName = "JieJiSS";
 var white = [0, 0, 100];
 var black = [0, 0, 27];
 var red = [0, 100, 63];
