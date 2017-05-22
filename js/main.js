@@ -309,7 +309,7 @@ var ctx;
 var pointCollection;
 
 document.rotationForce = 0;
-document.Friction = 0.95;
+document.Friction = 0.91;
  
 setTimeout(updateCanvasDimensions, 30);
 
